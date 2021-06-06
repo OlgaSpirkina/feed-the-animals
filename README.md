@@ -1,5 +1,6 @@
 # feed-the-animals v.1.0 - cat edition
 Un jeu élaboré en vanilla JavaScript
+![grab-landing-page](https://raw.githubusercontent.com/OlgaSpirkina/feed-the-animals/main/assets/img/kitty.gif)
 ## instructions
 ### Vous avez 30 secondes pour équilibrer : l'humeur, le poids et la satiété du chat
 1. Appuyez sur start
